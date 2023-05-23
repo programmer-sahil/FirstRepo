@@ -1,1 +1,2 @@
 hi my name is sahil. How are you my dear friend. I'm learning Git
+making some changes 
